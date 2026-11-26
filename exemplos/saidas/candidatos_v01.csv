@@ -1,0 +1,6 @@
+id,t0,t1,t_quadro,sinais,n_tipos,detalhes,fala,quadro
+1,2.9,2.9,2.9,silencio,1,silencio=1.6,Vamos começar o teste de hoje.,quadros/c001_0002.90.jpg
+2,5.5,12.0,8.75,cortes_rapidos+escuro+movimento_brusco+risada?,4,risada?=5.5; escuro=1.9s; movimento_brusco=75.5; cortes_rapidos=1.5s,,quadros/c002_0008.75.jpg
+3,14.6,15.5,15.05,gatilho_fala+movimento_brusco+pancada+risada?,4,gatilho_fala=olha; gatilho_fala=cuidado; pancada=51.9; movimento_brusco=171.6; movimento_brusco=171.6; risada?=5.5,"Olha, cuidado com isso!",quadros/c003_0015.05.jpg
+4,21.6,22.4,22.0,gatilho_fala+grito_pico+pancada,3,gatilho_fala=nossa; grito_pico=-7.4; pancada=35.6; gatilho_fala=consegui,"Nossa, consegui terminar.",quadros/c004_0022.00.jpg
+5,26.0,26.0,26.0,silencio,1,silencio=1.6,,quadros/c005_0026.00.jpg

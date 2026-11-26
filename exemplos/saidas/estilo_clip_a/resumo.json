@@ -1,0 +1,56 @@
+{
+ "arquivo": "clip_sintetico.mp4",
+ "largura": 640,
+ "altura": 360,
+ "fps": 25.0,
+ "quadros": 750,
+ "duracao_s": 30.0,
+ "proporcao": 1.778,
+ "tem_audio": true,
+ "n_cortes": 6,
+ "cortes_t": [
+  8.0,
+  10.0,
+  15.0,
+  15.32,
+  22.0,
+  24.0
+ ],
+ "duracao_media_plano_s": 4.286,
+ "plano_min_s": 0.32,
+ "plano_max_s": 8.0,
+ "fluxo_medio": 0.0709,
+ "fluxo_p95": 0.1256,
+ "zoom_medio": -0.0056,
+ "giro_abs_medio": 0.0444,
+ "luma_medio": 79.5,
+ "sat_media": 100.2,
+ "contraste_medio": 17.2,
+ "bordas_media": 0.0052,
+ "paleta": [
+  [
+   "#3A5743",
+   0.855
+  ],
+  [
+   "#4D4FC4",
+   0.057
+  ],
+  [
+   "#010502",
+   0.042
+  ],
+  [
+   "#E1BB92",
+   0.03
+  ],
+  [
+   "#EAC727",
+   0.016
+  ]
+ ],
+ "fluxo_terco1": 0.0704,
+ "fluxo_terco2": 0.0756,
+ "fluxo_terco3": 0.0668,
+ "codec": "h264"
+}

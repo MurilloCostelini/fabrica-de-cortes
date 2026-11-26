@@ -1,0 +1,4 @@
+item,id,caminho,uso,bloco,palavra,db,inicio_s,duracao_max_s
+sfx01,SFX001,,low beep on the bang,2,cuidado,-6,,
+sfx02,SFX003,,high beep on the shout,3,nossa,,0.0,0.3
+sfx03,SFX999,,id that is not in the catalog,3,x,,,

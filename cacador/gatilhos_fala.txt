@@ -1,0 +1,14 @@
+# Words that MARK a candidate (lowercase, one per line). They only mark; a human or an LLM decides.
+# This is a generic starter list for Portuguese speech. Review it for every video: a good list is
+# specific to the content (names of objects, places, running jokes), so edit it per project.
+ai
+ui
+nossa
+caramba
+cuidado
+olha
+meu deus
+socorro
+acabou
+consegui
+errei

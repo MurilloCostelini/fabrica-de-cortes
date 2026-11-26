@@ -1,0 +1,9 @@
+# GPU environment: step 3 (WhisperX alignment) and Florence-2 frame description.
+# Install in its OWN virtualenv (see docs/venvs.md). Install the CUDA build of torch FIRST,
+# then these, then re-pin torch (whisperx may replace it with the CPU build).
+-r requirements.txt
+whisperx>=3.1
+transformers>=4.49,<5
+pillow>=10
+einops
+timm

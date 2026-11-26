@@ -1,0 +1,7 @@
+{"nome": "demo", "fps": 25, "trilhas": [
+ {"tipo": "video", "n": 1, "clipes": [{"nome": "clip_sintetico.mp4", "ini": 0, "fim": 750}]},
+ {"tipo": "video", "n": 2, "clipes": [{"nome": "zoom_punch_in", "ini": 375, "fim": 400}]},
+ {"tipo": "video", "n": 3, "clipes": [{"nome": "Text+ caption 1", "ini": 20, "fim": 70}, {"nome": "video_comp_v02", "ini": 100, "fim": 140}]},
+ {"tipo": "audio", "n": 1, "clipes": [{"nome": "clip_sintetico.mp4", "ini": 0, "fim": 750}]},
+ {"tipo": "audio", "n": 2, "clipes": [{"nome": "beep_low", "ini": 375, "fim": 385}, {"nome": "beep_high", "ini": 380, "fim": 390}, {"nome": "sfx_007", "ini": 550, "fim": 560}]}
+]}

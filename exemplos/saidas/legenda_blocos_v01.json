@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "t_ini": 0.5,
+  "t_fim": 1.65,
+  "texto": "Vamos COMEÇAR o",
+  "palavra_chave": "começar",
+  "revisar": "sim"
+ },
+ {
+  "id": 2,
+  "t_ini": 1.7,
+  "t_fim": 3.0,
+  "texto": "TESTE de hoje.",
+  "palavra_chave": "teste",
+  "revisar": "sim"
+ },
+ {
+  "id": 3,
+  "t_ini": 14.6,
+  "t_fim": 15.8,
+  "texto": "Olha, CUIDADO com",
+  "palavra_chave": "cuidado",
+  "revisar": "sim"
+ },
+ {
+  "id": 4,
+  "t_ini": 15.85,
+  "t_fim": 16.2,
+  "texto": "isso!",
+  "palavra_chave": "",
+  "revisar": "sim"
+ },
+ {
+  "id": 5,
+  "t_ini": 21.6,
+  "t_fim": 23.8,
+  "texto": "Nossa, consegui TERMINAR.",
+  "palavra_chave": "terminar",
+  "revisar": "sim"
+ }
+]

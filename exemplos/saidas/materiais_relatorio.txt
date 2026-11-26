@@ -1,0 +1,6 @@
+materiais: exemplos/materiais_exemplo.csv
+destino: exemplos/saidas/importar
+copied now: 2 | already there: 0 | missing: 1 | stale catalog: 0
+MISSING (fix before opening the editor):
+- sfx03: id SFX999 is not in the catalog
+NOT ready: fix the items above

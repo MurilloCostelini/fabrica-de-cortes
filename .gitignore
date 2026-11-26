@@ -1,0 +1,15 @@
+.env
+.venv/
+venv*/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+refs/
+models/
+*.onnx
+*.pt
+# raw footage and caches never belong here
+*.mkv
+*.mov
+!exemplos/clip_sintetico.mp4

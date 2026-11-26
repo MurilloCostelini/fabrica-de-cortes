@@ -1,0 +1,4 @@
+id,caminho_relativo,descricao
+SFX001,sfx/beep_low.wav,synthetic 440 Hz beep
+SFX002,sfx/beep_mid.wav,synthetic 880 Hz beep
+SFX003,sfx/beep_high.wav,synthetic 1760 Hz beep

@@ -1,0 +1,6 @@
+id,t_ini,t_fim,texto,palavra_chave,revisar
+1,0.5,1.65,Vamos COMEÇAR o,começar,sim
+2,1.7,3.0,TESTE de hoje.,teste,sim
+3,14.6,15.8,"Olha, CUIDADO com",cuidado,sim
+4,15.85,16.2,isso!,,sim
+5,21.6,23.8,"Nossa, consegui TERMINAR.",terminar,sim

@@ -1,0 +1,7 @@
+timeline 'demo' (25 fps) | 5 tracks
+ERRO  V3: 'video_comp_v02' looks like a baked piece (rule 1)
+AVISO A2: SFX 'sfx_007' not in the catalog (renamed? rule 2)
+AVISO A2: SFX 'sfx_007' has a generic name, not the original
+ERRO  A2: SFX 'beep_low' and 'beep_high' overlap on the same track (rule 4)
+INFO  clips on V2+ (zooms, layers): 3 (rule 6; transform not checked)
+summary: 2 error(s), 2 warning(s)

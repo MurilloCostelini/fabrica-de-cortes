@@ -1,0 +1,8 @@
+[
+ {"start": 0.5, "end": 3.0, "text": "Vamos começar o teste de hoje.",
+  "palavras": [{"w": "Vamos", "t0": 0.5, "t1": 0.9}, {"w": "começar", "t0": 0.95, "t1": 1.5}, {"w": "o", "t0": 1.55, "t1": 1.65}, {"w": "teste", "t0": 1.7, "t1": 2.2}, {"w": "de", "t0": 2.25, "t1": 2.35}, {"w": "hoje.", "t0": 2.4, "t1": 3.0}]},
+ {"start": 14.6, "end": 16.2, "text": "Olha, cuidado com isso!",
+  "palavras": [{"w": "Olha,", "t0": 14.6, "t1": 14.9}, {"w": "cuidado", "t0": 15.0, "t1": 15.6}, {"w": "com", "t0": 15.65, "t1": 15.8}, {"w": "isso!", "t0": 15.85, "t1": 16.2}]},
+ {"start": 21.5, "end": 24.0, "text": "Nossa, consegui terminar.",
+  "palavras": [{"w": "Nossa,", "t0": 21.6, "t1": 22.1}, {"w": "consegui", "t0": 22.4, "t1": 23.0}, {"w": "terminar.", "t0": 23.1, "t1": 23.8}]}
+]
